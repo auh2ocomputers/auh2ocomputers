@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auh2ocomputers
 - 👀 I’m interested in ... coding, piano, scifi, and Las Vegas
-- 🌱 I’m currently learning ... docker 
+- 🌱 I’m currently learning ... data science :)
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... youtube @ goldwater.dev
 <!---
